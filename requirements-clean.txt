@@ -8,3 +8,8 @@ openpyxl           # Used for reading and writing Excel (xlsx) files
 tensorflow         # Popular deep learning framework for building neural networks
 torch              # Deep learning framework by Facebook, based on dynamic computation graphs
 requests           # HTTP library for making requests to web services and APIs
+jupyter            # Web application for creating and sharing documents that contain live code, equations, and visualizations
+jupyterlab         # Advanced version of Jupyter Notebook for a more integrated development environment
+notebook           # Jupyter Notebook, for interactive data science and scientific computing
+ipywidgets         # Interactive widgets for the Jupyter Notebook environment
+pydantic           # Pydantic for creating objects to better manage complex data structure

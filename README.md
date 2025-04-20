@@ -51,6 +51,24 @@ Don't forget to install all necessary packages:
 pip install -r requirements-clean.txt
 ```
 
+**Env**
+
+* python 3.12
+* macos
+* pycharm
+
+Make sure all the dirs are set as "Sources Root" in pycharm, I've added [setup.py](setup.py) which initialized this
+
+```shell
+models
+notebooks
+projects
+tutorials
+utils
+```
+
+Set the config: `cp config-example.py config.py`
+Makesure you set the values accordingly
 ----
 
 ## License
